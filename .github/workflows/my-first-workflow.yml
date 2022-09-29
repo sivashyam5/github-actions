@@ -1,0 +1,9 @@
+# This is a basic workflow to help you get started with Actions
+
+name: My Pipeline
+on: push
+jobs:
+  my_job:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo Hello, world!
