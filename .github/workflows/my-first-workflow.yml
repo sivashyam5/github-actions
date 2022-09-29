@@ -8,4 +8,4 @@ jobs:
     steps:
       - run: |
           echo Hello, world!
-          echo Welcome to Github Actions
+          echo Welcome to Github Actions !
