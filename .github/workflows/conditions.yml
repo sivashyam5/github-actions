@@ -5,7 +5,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - id: job_1
-      run: exit 1
+      run: exit 5
       
   job-success:
     runs-on: ubuntu-latest
