@@ -11,4 +11,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: reused 2nd action
-      run: echo “I am Second Job"
+      run: echo "I am Second Job"
